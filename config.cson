@@ -10,18 +10,20 @@
       "autocomplete-python"
       "atom-handlebars"
       "minimap"
-      "react"
-      "sync-settings"
       "auto-update-packages"
       "turbo-javascript"
     ]
+    telemetryConsent: "limited"
     themes: [
       "atom-material-ui"
       "atom-material-syntax"
     ]
   editor:
-    fontSize: 18
+    autoIndent: false
+    fontSize: 20
     invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
   "exception-reporting":
     userId: "e68999c5-3012-be0a-7185-596ea07fc92c"
   "git-plus": {}
@@ -37,10 +39,10 @@
   react: {}
   "sync-settings":
     _analyticsUserId: "3354096c-f47e-48d4-876f-cd3b758e510e"
-    _lastBackupHash: "eb214a9a417ac100f05817b3b1c30d1cedbec869"
+    _lastBackupHash: "36414e6eeb5d57e4205d732227efc9e2d39aca1a"
     analytics: false
-    gistId: "1d9b4b59ce76a3b076c4"
-    personalAccessToken: "2d4c99b545f16bbf12733205bb01deaca2a81997"
+    gistId: "6e3d365bac6385312ccbc1a64831d688"
+    personalAccessToken: "656a5aecc47290ed6ea7a97fc3dba2dbdc82800c"
   "tree-view":
     hideVcsIgnoredFiles: true
   "vim-mode": {}
