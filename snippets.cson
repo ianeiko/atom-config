@@ -29,7 +29,6 @@
     });
     """
 
-'.source.js':
   'describe':
     'prefix': 'describe'
     'body': """
